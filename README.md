@@ -1,4 +1,4 @@
-# LABa
+# LABs
 
 ## 095_RodandoAplicacaoJavaKubernetesDeployDebugSemMedo
 
